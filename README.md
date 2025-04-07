@@ -72,4 +72,11 @@ Credit_History, Risk_Category, Insurance_Status
 
 ⚠️ Disclaimer: This dataset is not self-generated. It was sourced from an open repository and is intended solely for learning and visualization purposes. No real customer data is used.
 
+🖼️ Dashboard Screenshots
+📌 (Page 1 – Overview) [https://github.com/nithyashakthi/Finance_Track_Dashboard/blob/main/Screenshot%202025-04-07%20103229.png]
+This page provides a summary of customer distribution, credit scores, income ranges, loan purpose, and approval status.
+
+
+📌 (Page 2 – Credit Risk) [https://github.com/nithyashakthi/Finance_Track_Dashboard/blob/main/Screenshot%202025-03-18%20181422.png]
+This page focuses on financial risk indicators such as debt-to-income ratio, annual income analysis, loan amount trends, and high-risk customer segmentation.
 
